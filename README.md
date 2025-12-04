@@ -4,7 +4,7 @@
 
 This repository provides the code and  metadata necessary to replicate  analyses reported in the paper:
 “Pivoting as an Adaptive Strategy to Geopolitical Tensions in U.S. Science”
-\nMoxin Li(XJTU), Yifang Ma(SUSTC), Yang Wang(XJTU), and Dashun Wang(NU)
+- Moxin Li(XJTU), Yifang Ma(SUSTC), Yang Wang(XJTU), and Dashun Wang(NU)
 
 ## Data Availability
 To ensure transparency and reproducibility, all datasets used in this study are archived on the Harvard Dataverse.

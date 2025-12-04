@@ -17,19 +17,19 @@ The following datasets are available for download via the Harvard Dataverse:
 ###data.csv
 - The core dataset used for the main regression analyses and for generating the survival analysis in Figure 2.
 
-###Fig3_event_study_data.csv
+### Fig3_event_study_data.csv
 - Dataset used to produce Figure 3, containing the event-study coefficient estimates and their corresponding 95% confidence intervals.
 
-###Fig4_did_pivot_data.csv
+### Fig4_did_pivot_data.csv
 - Dataset used for Figure 4, providing difference-in-differences (DID) estimates and moderation effects (by field, race/ethnicity, and age), along with their confidence intervals.
 
 ## Code Structure
 This repository contains Python and Stata scripts organized by analysis module, as follows:
 
-###code.ipynb
+### code.ipynb
 - Python notebook used to generate Figure 2 (based on data.csv), Figure 3 (based on Fig3_event_study_data.csv), Figure 4 (based on Fig4_did_pivot_data.csv), and Table 1 (based on data.csv).
 
-###regression.do
+### regression.do
 - Stata script that performs regression analyses using data.csv. It produces the source data for Fig3_event_study_data.csv and Fig4_did_pivot_data.csv.
 
 Acknowledgement:

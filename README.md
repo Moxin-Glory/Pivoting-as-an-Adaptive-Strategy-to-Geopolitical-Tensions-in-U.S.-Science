@@ -20,7 +20,7 @@ The following datasets are available for download via the Harvard Dataverse:
 - Dataset used to produce Figure 3, containing the event-study coefficient estimates and their corresponding 95% confidence intervals.
 
 ### Fig4_did_pivot_data.csv
-- Dataset used for Figure 4, providing difference-in-differences (DID) estimates and moderation effects (by field, race/ethnicity, and age), along with their confidence intervals.
+- Dataset used for Figure 4, providing estimates and moderation effects (by field risk, race, and age), along with their confidence intervals.
 
 ## Code Structure
 This repository contains Python and Stata scripts organized by analysis module, as follows:

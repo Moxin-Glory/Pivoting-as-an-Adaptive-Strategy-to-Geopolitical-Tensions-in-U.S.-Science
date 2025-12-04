@@ -7,8 +7,6 @@ This repository provides the code and  metadata necessary to replicate  analyses
 - Moxin Li(XJTU), Yifang Ma(SUSTC), Yang Wang(XJTU) and Dashun Wang(NU)
 
 ## Data Availability
-To ensure transparency and reproducibility, all datasets used in this study are archived on the Harvard Dataverse.
-
 Because GitHub imposes file size limits, the datasets are not stored directly in this repository.
 You can access the full dataset here: https://doi.org/
 

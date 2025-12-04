@@ -29,7 +29,7 @@ This repository contains Python and Stata scripts organized by analysis module, 
 - Python notebook used to generate Figure 2 (based on data.csv), Figure 3 (based on Fig3_event_study_data.csv), Figure 4 (based on Fig4_did_pivot_data.csv), and Table 1 (based on data.csv).
 
 ### regression.do
-- Stata script that performs regression analyses using data.csv. It produces the source data for Fig3_event_study_data.csv and Fig4_did_pivot_data.csv.
+- Stata script that performs regression analyses using data.csv. It produces the source data for Table 2, Table 3, Fig3_event_study_data.csv and Fig4_did_pivot_data.csv.
 
 Acknowledgement:
 This paper was written using data from the APl for DigitalScience's Dimensions platform, available at https://app.dimensions.ai.

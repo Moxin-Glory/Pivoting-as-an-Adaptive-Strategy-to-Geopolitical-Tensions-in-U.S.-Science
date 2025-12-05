@@ -8,8 +8,7 @@ This repository provides the code and  metadata necessary to replicate  analyses
 
 ## Data Availability
 Because GitHub imposes file size limits, the datasets are not stored directly in this repository.
-You can access the full dataset here: https://doi.org/](https://doi.org/10.7910/DVN/RVB41B
-
+You can access the full dataset here: https://doi.org/10.7910/DVN/RVB41B
 ## Dataset Descriptions:
 The following datasets are available for download via the Harvard Dataverse:
 

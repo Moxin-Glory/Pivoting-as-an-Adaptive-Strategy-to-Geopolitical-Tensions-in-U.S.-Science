@@ -13,7 +13,8 @@ You can access the full dataset here: https://doi.org/10.7910/DVN/RVB41B
 The following datasets are available for download via the Harvard Dataverse:
 
 ### data.csv
-- The core dataset used for the main regression analyses and for generating the survival analysis in Figure 2.(We sincerely apologize for an error in the calculation of the control variable “number of new collaborators” in the shared dataset. However, this issue does not affect the overall conclusions of the paper: whether this control variable is included or excluded, the direction and statistical significance of the main results remain unchanged. The paper is still a work in progress, and we will provide a corrected version of the dataset in a future version of the paper, together with a corresponding explanation posted on Harvard Dataverse.)
+- The core dataset used for the main regression analyses and for generating the survival analysis in Figure 2.
+- (We sincerely apologize for an error in the calculation of the control variable “number of new collaborators” in the shared dataset. However, this issue does not affect the overall conclusions of the paper: whether this control variable is included or excluded, the direction and statistical significance of the main results remain unchanged. The paper is still a work in progress, and we will provide a corrected version of the dataset in a future version of the paper, together with a corresponding explanation posted on Harvard Dataverse)
 
 ### Fig3_event_study_data.csv
 - Dataset used to produce Figure 3, containing the event-study coefficient estimates and their corresponding 95% confidence intervals. The underlying data for this dataset are generated based on the output of the Stata script regression.do.

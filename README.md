@@ -2,9 +2,7 @@
 # Data and Code for Paper
 ## Overview
 
-This repository provides the code and  metadata necessary to replicate  analyses reported in the paper:
-- “Pivoting as an Adaptive Strategy to Geopolitical Tensions in U.S. Science”
-- Moxin Li(XJTU), Yifang Ma(SUSTC), Yang Wang(XJTU) and Dashun Wang(NU)
+
 
 ## Data Availability
 Because GitHub imposes file size limits, the datasets are not stored directly in this repository.

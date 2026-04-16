@@ -1,5 +1,5 @@
 
-# Data and Code for papers
+# Data and Code for Paper
 ## Overview
 
 This repository provides the code and  metadata necessary to replicate  analyses reported in the paper:
